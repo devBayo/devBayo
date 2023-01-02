@@ -23,7 +23,7 @@ I'm passionate about building, collaborating and solving complex problems.
  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devBayo&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/devBayo/)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=devBayo&show_icons=true&theme=solarized-dark&hide_border=true" alt="devBayo" />
+ <img src="https://github-readme-stats.vercel.app/api?username=devbayo&show_icons=true&theme=solarized-dark&hide_border=true" alt="devbayo" />
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devBayo&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
