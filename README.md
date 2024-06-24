@@ -1,7 +1,7 @@
 # Howdy 👋, I'm devBayo
 =====================================
 
-## Creative Web Developer • HTML • CSS • JavaScript • React
+## Creative Web Developer JavaScript • React
 I'm passionate about building, collaborating and solving complex problems.
 
 * 🤝  I'm open to collaborating on open source Projects
